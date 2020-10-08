@@ -1,5 +1,5 @@
 # Personal-Academic-Guide
-The personal Academic Guide is a final project web application that provides students with the ability to manage school related activities, 
+The personal Academic Guide is a final project web application created with my college Keilon Robertson that provides students with the ability to manage school related activities, 
 specifically, exams, courses, notes, and assignments.
 
 The Personal Academic Guide is a basic desktop application that targets students attending the University of the Southern Caribbean. 
